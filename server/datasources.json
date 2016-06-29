@@ -1,0 +1,11 @@
+{
+  "db": {
+    "host": "127.0.0.1",
+    "port": 3306,
+    "database": "mooc",
+    "username": "root",
+    "password": "bqxu1106",
+    "name": "db",
+    "connector": "mysql"
+  }
+}
